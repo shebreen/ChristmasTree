@@ -76,7 +76,7 @@ board.penup()
 
 board.color('red')
 board.goto(0,totalH*2/3)
-board.write('HAPPY CHRISTMAS!', font=('arial',20,'bold'), align='center')
+board.write('MERRY CHRISTMAS!', font=('arial',20,'bold'), align='center')
 
 turtle.done()
 
